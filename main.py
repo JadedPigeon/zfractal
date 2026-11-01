@@ -1,5 +1,6 @@
 
 import sys
+from mandelbrot import mandelbrot_iterations
 
 from PySide6.QtCore import Qt
 from PySide6.QtWidgets import QApplication, QLabel, QMainWindow
